@@ -1,4 +1,22 @@
 {
+  "CF132602203": {
+    "contest_id": 584,
+    "language": "GNU C++17",
+    "path": "codeforces\\584\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Marina and Vasya",
+    "problem_url": "https://codeforces.com/contest/584/problem/C",
+    "submission_id": "CF132602203",
+    "submission_url": "https://codeforces.com/contest/584/submission/132602203",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Oct/21/2021 15:58"
+  },
   "CF132603345": {
     "contest_id": 1594,
     "language": "GNU C++17",
