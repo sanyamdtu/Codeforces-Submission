@@ -1,4 +1,21 @@
 {
+  "CF134942651": {
+    "contest_id": 1148,
+    "language": "GNU C++17",
+    "path": "codeforces\\1148\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Crazy Diamond",
+    "problem_url": "https://codeforces.com/contest/1148/problem/C",
+    "submission_id": "CF134942651",
+    "submission_url": "https://codeforces.com/contest/1148/submission/134942651",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Nov/11/2021 10:39"
+  },
   "CF135409174": {
     "contest_id": 1136,
     "language": "GNU C++17",
