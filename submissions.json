@@ -1,4 +1,22 @@
 {
+  "CF137655771": {
+    "contest_id": 1613,
+    "language": "GNU C++17",
+    "path": "codeforces\\1613\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Absent Remainder",
+    "problem_url": "https://codeforces.com/contest/1613/problem/B",
+    "submission_id": "CF137655771",
+    "submission_url": "https://codeforces.com/contest/1613/submission/137655771",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Dec/01/2021 20:35"
+  },
   "CF137667532": {
     "contest_id": 1613,
     "language": "GNU C++17",
