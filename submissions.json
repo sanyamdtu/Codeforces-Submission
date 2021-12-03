@@ -1,4 +1,21 @@
 {
+  "CF137867230": {
+    "contest_id": 691,
+    "language": "GNU C++17",
+    "path": "codeforces\\691\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Exponential notation",
+    "problem_url": "https://codeforces.com/contest/691/problem/C",
+    "submission_id": "CF137867230",
+    "submission_url": "https://codeforces.com/contest/691/submission/137867230",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "Dec/03/2021 14:43"
+  },
   "CF137896894": {
     "contest_id": 1295,
     "language": "GNU C++17",
