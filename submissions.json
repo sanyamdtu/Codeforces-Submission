@@ -1,4 +1,22 @@
 {
+  "CF137997315": {
+    "contest_id": 1554,
+    "language": "GNU C++17",
+    "path": "codeforces\\1554\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Diane",
+    "problem_url": "https://codeforces.com/contest/1554/problem/D",
+    "submission_id": "CF137997315",
+    "submission_url": "https://codeforces.com/contest/1554/submission/137997315",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "Dec/04/2021 19:50"
+  },
   "CF139228411": {
     "contest_id": 1618,
     "language": "GNU C++17",
